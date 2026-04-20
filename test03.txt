@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test03.txt user04가 수정
-=======
-test03.txt  user03이 수정
->>>>>>> origin/master
+test03.txt user03이 다시 수정
+
